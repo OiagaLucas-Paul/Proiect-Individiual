@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lucas","l":"Factura"},{"p":"lucas","l":"SistemFacturare"},{"p":"lucas","l":"SistemFacturareUI"}];updateSearchResults();
